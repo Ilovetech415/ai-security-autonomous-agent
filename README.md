@@ -1,3 +1,7 @@
+
+# 🛡️ AI Security Autonomous Agent
+
+> Behavior-based autonomous cybersecurity system that detects, learns, and responds to threats in real time.
 # AI Security Autonomous Agent
 
 A production-style autonomous cybersecurity agent built with FastAPI.
